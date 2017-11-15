@@ -49,6 +49,11 @@ ul.posts li {
   height: auto;  
 }
 
+.container2 {
+  position: relative;
+  width: 50%;
+}
+
 .overlay {
   position: absolute;
   bottom: 100%;

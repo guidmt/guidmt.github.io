@@ -43,10 +43,9 @@ ul.posts li {
     list-style: none;
 }
 
-
-.container2 {
+.container {
   position: relative;
-  width: 100%;
+  width:50%;
 }
 
 .overlay {
@@ -61,7 +60,7 @@ ul.posts li {
   transition: .5s ease;
 }
 
-.container2:hover .overlay {
+.container:hover .overlay {
   bottom: 0;
   height: 100%;
 }

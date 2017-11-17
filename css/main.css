@@ -45,7 +45,7 @@ ul.posts li {
 
 .image {
   display: block;
-  width: 50%;
+  width: auto;
   height: auto;  
 }
 

@@ -44,9 +44,7 @@ ul.posts li {
 }
 
 .image {
-  display: block;
-  width: auto;
-  height: auto;  
+  display: block; 
 }
 
 .container2 {

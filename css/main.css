@@ -95,7 +95,8 @@ ul.posts li {
 
 .containerRG:hover .overlayRG {  
     bottom: 0;  
-    width: 100%;
+    width: auto;
+    heightç auto;
 }
 
 .text {

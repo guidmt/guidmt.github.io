@@ -49,19 +49,9 @@ ul.posts li {
   height: auto;  
 }
 
-.imageRG {  
-    display: block;  
-    width: 50%;  
-    height: auto;  }
-
 .container2 {
   position: relative;
   width: auto;
-}
-
-.containerRG {  
-    position: relative;  
-    width: auto;
 }
 
 .overlay {

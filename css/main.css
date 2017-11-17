@@ -44,12 +44,6 @@ ul.posts li {
 }
 
 
-.image {
-  display: block;
-   width:100%; 
-   height:auto;
-}
-
 .container2 {
   position: relative;
   width: auto;
@@ -62,8 +56,8 @@ ul.posts li {
   right: 0;
   background-color: #008CBA;
   overflow: hidden;
-  width: 100%;
-  height:0;
+  width: 320;
+  height:320;
   transition: .5s ease;
 }
 

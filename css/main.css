@@ -63,7 +63,7 @@ ul.posts li {
 
 .container2:hover .overlay {
   bottom: 0;
-  height: 320;
+  height: 100%;
 }
 
 .text {

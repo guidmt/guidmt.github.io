@@ -51,7 +51,7 @@ ul.posts li {
 
 .overlay {
   position: absolute;
-  bottom: 320;
+  bottom: 100%;
   left: 0;
   right: 0;
   background-color: #008CBA;

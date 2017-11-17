@@ -76,27 +76,9 @@ ul.posts li {
   transition: .5s ease;
 }
 
-.overlayRG {  
-    position: absolute;  
-    bottom: 100%;  
-    left: 0;  
-    right: 0;  
-    background-color: #008CBA;  
-    overflow: hidden;  
-    width: auto;  
-    height:auto;  
-    transition: .5s ease;
-}
-
 .container2:hover .overlay {
   bottom: 0;
   height: 100%;
-}
-
-.containerRG:hover .overlayRG {  
-    bottom: 0;  
-    width: auto;
-    height: auto;
 }
 
 .text {
@@ -109,16 +91,4 @@ ul.posts li {
   left: 50%;
   transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%);
-}
-
-.textRG {  
-    white-space: nowrap;   
-    color: white;  
-    font-size: 80px;  
-    position: absolute;  
-    overflow: hidden;  
-    top: 50%;  
-    left: 50%;  
-    transform: translate(-50%, -50%);  
-    -ms-transform: translate(-50%, -50%);
 }

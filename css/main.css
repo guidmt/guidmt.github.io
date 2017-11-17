@@ -83,8 +83,8 @@ ul.posts li {
     right: 0;  
     background-color: #008CBA;  
     overflow: hidden;  
-    width: 50%;  
-    height:0;  
+    width: auto;  
+    height:auto;  
     transition: .5s ease;
 }
 

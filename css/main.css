@@ -59,6 +59,12 @@ ul.posts li {
   width: auto;
 }
 
+.containerRG {  
+    position: relative;  
+    width: auto;}
+
+
+
 .overlay {
   position: absolute;
   bottom: 100%;
@@ -74,6 +80,11 @@ ul.posts li {
 .container2:hover .overlay {
   bottom: 0;
   height: 100%;
+}
+
+.containerRG:hover .overlay {  
+    bottom: 0;  
+    width: 100%;
 }
 
 .text {

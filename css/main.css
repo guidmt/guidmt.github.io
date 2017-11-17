@@ -43,6 +43,11 @@ ul.posts li {
     list-style: none;
 }
 
+th, td {
+    width: 100px;
+    height: 100px;
+}
+
 .image {
   display: block; 
 }

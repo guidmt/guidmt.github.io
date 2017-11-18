@@ -209,3 +209,26 @@ body {
     background-image: url(https://4kwallpapers.co/wp-content/uploads/2015/09/abstract-colorful-vectors-design-4k-wallpapers.png);
 }
 
+
+
+/* 
+Set the graphical parameters for the description of website
+*/
+a1, p1 {
+  font: 20px/1.25 Ubuntu, sans-serif;
+  line-height: $title-pad + 1em;
+  text-transform: uppercase;
+  margin-bottom: 1em;
+  text-decoration: none;
+  color: gray;
+  line-height: 150%;
+
+}
+
+.boxed {
+    display: inline;
+    background: #ee4035;
+    color: white; 
+    padding:  0.25em;
+} 
+

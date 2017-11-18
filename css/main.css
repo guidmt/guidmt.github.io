@@ -181,8 +181,7 @@ body {
     position: absolute;
     z-index: -1;
     top: .125em;
-    right: .125em;
-    bottom: .125em;
+    right: .125em;    bottom: .125em;
     left: .125em;
     background-color: #000;
 }
@@ -225,10 +224,38 @@ a1, p1 {
 
 }
 
+
+/* 
+Set the graphical parameters for the lectures
+*/
 .boxed {
     display: inline;
     background: #ee4035;
     color: white; 
     padding:  0.25em;
 } 
+
+a2, p2 {
+  font: 20px/1.25 Ubuntu, sans-serif;
+  line-height: $title-pad + 1em;
+  text-transform: uppercase;
+  margin-bottom: 1em;
+  text-decoration: none;
+  color: white;
+  line-height: 150%;
+
+}
+
+
+/* 
+Set the graphical parameters for the lectures
+*/
+
+.boxed2 {
+    display: inline;
+    background: #0066CC;
+    color: white; 
+    padding:  0.25em;
+} 
+
 

@@ -258,4 +258,10 @@ Set the graphical parameters for the lectures
     padding:  0.25em;
 } 
 
+.boxed3 {
+    display: inline;
+    background: #FF9933;
+    color: white; 
+    padding:  0.25em;
+} 
 
